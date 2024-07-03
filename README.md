@@ -1,1 +1,5 @@
-# heart-failure-prediction-analysis
+# Heart Failure Prediction Analysis
+
+## Authors
+* David Poslušný
+* Jiří Dragoun
